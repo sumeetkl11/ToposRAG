@@ -1,0 +1,6 @@
+{
+  "name": "CodeMind AI",
+  "description": "Local AI-powered codebase analytics, semantic search, and dependency visualization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
